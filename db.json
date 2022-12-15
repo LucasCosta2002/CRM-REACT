@@ -1,0 +1,40 @@
+{
+  "clientes": [
+    {
+      "nombre": "Lucas nuevo",
+      "empresa": "Codigo Con Lucas",
+      "email": "lucas@lucas.com",
+      "telefono": "102013313",
+      "notas": "NOta",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Lucia",
+      "telefono": 138198313,
+      "email": "lucia@lucia.com",
+      "empresa": "Codigo Con Luci"
+    },
+    {
+      "id": 3,
+      "nombre": "Joaquin",
+      "telefono": 31983913,
+      "email": "joaquin@joaquin.com",
+      "empresa": "Banco Santa Fe"
+    },
+    {
+      "id": 4,
+      "nombre": "Tomas",
+      "telefono": 319381983,
+      "email": "tomas@tomas.com",
+      "empresa": "Supermercado El Sol"
+    },
+    {
+      "id": 5,
+      "nombre": "Alejo",
+      "telefono": 1398198938,
+      "email": "alejo@alejo.com",
+      "empresa": "JAJAL SRL"
+    }
+  ]
+}
